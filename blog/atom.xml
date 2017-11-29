@@ -13,7 +13,7 @@ layout: feed
 		<name>Liz S</name>
 		<email>lizsaccoccia@gmail.com</email>
 	</author>
-
+	<p> <iframe src="https://staging.resourcewatch.org/embed/widget/731fee37-c473-4b45-b6fb-6cb3b943af15" width="100%" height="474" frameBorder="0"></iframe> </p>
 	{% for post in site.posts %}
 		<entry>
 			<title>{{ post.title }}</title>
